@@ -1,0 +1,2 @@
+- temperature: 0.20
+- top-p: 0.85
