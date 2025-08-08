@@ -25,7 +25,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ## 分析模块 (The Analytical Modules)
 
-### 模块一：结构动力学 (Module 1: Structural Dynamics)
+### 模块一：结构动力学 (Structural Dynamics)
 **核心焦点：** 潜能与变迁 (Potentiality and Change)
 *此模块旨在探究文化现象于其中展开的、不断变化的结构性空间。*
 
@@ -40,7 +40,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-### 模块二：编码的凝结 (Module 2: The Crystallization of Encoding)
+### 模块二：编码的凝结 (The Crystallization of Encoding)
 **核心焦点：** 造物 (Artifact)
 *此模块旨在分析可能性如何在一个充满内部矛盾与外部压力的过程中，凝结为具体的文化制品。*
 
@@ -55,7 +55,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-### 模块三：话语的竞技场 (Module 3: The Arena of Discourse)
+### 模块三：话语的竞技场 (The Arena of Discourse)
 **核心焦点：** 阐释 (Interpretation)
 *此模块旨在分析话语实践如何从潜在议题中涌现，其形态既可是竞技场式的公开争议，亦可是渗透式的隐性协商。*
 
@@ -70,7 +70,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-### 模块四：系统性涟漪 (Module 4: Systemic Ripples)
+### 模块四：系统性涟漪 (Systemic Ripples)
 **核心焦点：** 影响 (Impact)
 *此模块旨在审慎地评估“话语的竞技场”对现实世界系统可能产生的、非线性的关联性影响，旨在捕捉文化话语如何被系统吸收，并最终促使行动者与制度进行自我调整。*
 
@@ -86,7 +86,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-### 模块五：分析的自反性回路 (Module 5: The Loop of Analytical Reflexivity)
+### 模块五：分析的自反性回路 (The Loop of Analytical Reflexivity)
 **核心焦点：** 元认知 (Metacognition)
 *此模块将分析的焦点转向分析行为本身。它是一次冷静的复盘，旨在通过挑战当前分析的根基，为下一次迭代探究铺平道路，从而将自我批判制度化。*
 
