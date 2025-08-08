@@ -1,12 +1,12 @@
-### 游戏文化动力学自反性分析框架
+# 游戏文化动力学自反性分析框架
 A Reflexive Framework for the Analysis of Game Culture Dynamics
 
-#### 核心哲学
+## 核心哲学
 本框架是一个**启发式 (Heuristic)** 与 **自反性 (Reflexive)** 的分析工具，而非一个规定性的模型。其核心目标并非提供确定性答案，而是生成高质量的、可供深究的问题。它被设计为一个**模块化的工具箱**，其分析路径由探索过程自身塑造。
 
 ---
 
-#### 分析前置协议 (Pre-Analysis Protocol)
+## 分析前置协议 (Pre-Analysis Protocol)
 *此为强制性前置步骤，用以确立整个分析的根基与方向。在进入分析模块之前，必须完成此协议。*
 
 **1. 立场与边界设定 (Positionality and Boundary Setting):**
@@ -23,9 +23,9 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-#### 分析模块 (The Analytical Modules)
+## 分析模块 (The Analytical Modules)
 
-#### 模块一：结构动力学 (Module 1: Structural Dynamics)
+### 模块一：结构动力学 (Module 1: Structural Dynamics)
 **核心焦点：** 潜能与变迁 (Potentiality and Change)
 *此模块旨在探究文化现象于其中展开的、不断变化的结构性空间。*
 
@@ -36,28 +36,28 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 **指导问题：**
 *   （描述）构成该制品所处“结构场域”的关键要素是什么？
-*   （阐释）这个场域为文化产品的“编码”提供了哪些**示能 (affordances)** 与 **约束 (constraints)**？其中潜藏着哪些可被动员的**张力 (tensions)**？
+*   （阐释）这个场域为文化产品的“编码”提供了哪些示能 (affordances) 与约束 (constraints)？其中潜藏着哪些可被动员的张力 (tensions)？
 
 ---
 
-#### 模块二：编码的凝结 (Module 2: The Crystallization of Encoding)
+### 模块二：编码的凝结 (Module 2: The Crystallization of Encoding)
 **核心焦点：** 造物 (Artifact)
 *此模块旨在分析可能性如何在一个充满内部矛盾与外部压力的过程中，凝结为具体的文化制品。*
 
 **构成要素：**
 1.  **准文本 (Paratext):** 市场营销、媒体前瞻、开发者声明等。
-2.  **规定性文本 (Prescriptive Text):** 开发者编码的、相对固定的元素（包含意图性与非意图性编码）。
+2.  **规定性文本 (Prescriptive Text):** 开发者编码的、相对固定的元素，包含意图性编码 (Intentional Encoding) 与非意图性编码 (Unintentional Encoding)。
 3.  **潜在演出空间 (Potential Performance Space):** 规则系统所生成的、逻辑上可能的玩家行动与交互的集合。
 
 **指导问题：**
 *   （描述）制品在上述三个层面呈现出哪些具体元素？
-*   （阐释）其准文本、规定性文本与潜在演出空间之间的一致性或冲突性，是如何产生独立的意义或争议的？这些编码元素又可被如何阐释为对“模块一”中“结构动力学”的**选择、协商或回避**？
+*   （阐释）其准文本、规定性文本与潜在演出空间之间的一致性或冲突性，是如何产生独立的意义或争议的？这些编码元素又可被如何阐释为对“模块一”中“结构动力学”的选择、协商或回避？
 
 ---
 
-#### 模块三：话语的竞技场 (Module 3: The Arena of Discourse)
+### 模块三：话语的竞技场 (Module 3: The Arena of Discourse)
 **核心焦点：** 阐释 (Interpretation)
-*此模块旨在分析话语实践如何从潜在议题中涌现，其形态既可是**竞技场式的公开争议**，亦可是**渗透式的隐性协商**。*
+*此模块旨在分析话语实践如何从潜在议题中涌现，其形态既可是竞技场式的公开争议，亦可是渗透式的隐性协商。*
 
 **构成要素：**
 1.  **触发与激活 (Triggers and Activation):** 引发关注的具体文本或演出事件。
@@ -70,7 +70,7 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 ---
 
-#### 模块四：系统性涟漪 (Module 4: Systemic Ripples)
+### 模块四：系统性涟漪 (Module 4: Systemic Ripples)
 **核心焦点：** 影响 (Impact)
 *此模块旨在审慎地评估“话语的竞技场”对现实世界系统可能产生的、非线性的关联性影响，旨在捕捉文化话语如何被系统吸收，并最终促使行动者与制度进行自我调整。*
 
@@ -82,11 +82,11 @@ A Reflexive Framework for the Analysis of Game Culture Dynamics
 
 **指导问题：**
 *   （描述）在相关话语实践发生后，上述领域出现了哪些可观察到的**变化或调整**？
-*   （阐释）如何构建一个展现这些“涟漪”与此前要素相互作用的**动力学映射 (dynamic mapping)**？在此映射中，关键的**反馈回路**与非线性效应体现在何处？
+*   （阐释）如何构建一个展现这些“涟漪”与此前要素相互作用的动力学映射 (dynamic mapping)？在此映射中，关键的反馈回路 (feedback loop) 与非线性效应体现在何处？
 
 ---
 
-#### 模块五：分析的自反性回路 (Module 5: The Loop of Analytical Reflexivity)
+### 模块五：分析的自反性回路 (Module 5: The Loop of Analytical Reflexivity)
 **核心焦点：** 元认知 (Metacognition)
 *此模块将分析的焦点转向分析行为本身。它是一次冷静的复盘，旨在通过挑战当前分析的根基，为下一次迭代探究铺平道路，从而将自我批判制度化。*
 
