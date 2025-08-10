@@ -1,8 +1,7 @@
 # 游戏文化动力学自反性分析框架
-A Reflexive Framework for the Analysis of Game Culture Dynamics
+*A Reflexive Framework for the Analysis of Game Culture Dynamics*
 
 ## 第一部分：哲学与协议
-Part I: Philosophy & Protocol
 
 ### 核心哲学
 本框架是一个**启发式 (Heuristic)** 与 **自反性 (Reflexive)** 的分析工具，而非一个规定性的模型。其核心目标并非提供确定性答案，而是生成高质量的、可供深究的问题。
@@ -10,7 +9,7 @@ Part I: Philosophy & Protocol
 ### 基本分析公设
 本框架视任何文化现象为一个动态的、相互建构的系统，而分析过程本身亦被视为此系统动力学的一部分。其分析模块并非线性的阶段，而是审视此系统的不同维度，旨在协同作用，以揭示其整体动力学。
 
-### 分析前置协议 (Pre-Analysis Protocol)
+### 分析前置协议
 *此为强制性前置步骤，用以确立整个分析的根基与方向。*
 
 **1. 立场与边界设定:**
@@ -21,7 +20,6 @@ Part I: Philosophy & Protocol
 ---
 
 ## 第二部分：分析模块
-Part II: The Analytical Modules
 
 *以下的模块构成了框架的核心分析工具。分析者应根据研究问题，灵活选用、组合或重入这些模块，以构建对现象的多维理解。*
 
@@ -85,7 +83,6 @@ Part II: The Analytical Modules
 ---
 
 ## 第三部分：元分析回路
-Part III: The Meta-Analytical Loop
 
 *此部分是框架的质量控制与自我进化机制。它是一套在关键节点被激活的元认知协议，旨在将一次分析的终点，转化为下一次分析的起点。*
 
