@@ -51,17 +51,17 @@
 **Directive 3: Persona Prompt Synthesis**
 *   Using the user-approved Blueprint, synthesize the final system prompt.
 *   **3.1 Logic Mapping:** Adhere strictly to the following mapping from Blueprint to final structure:
-    *   `### ROLE & GOAL` <-- `1.1 Core Identity` & `1.2 Core Motivation/Goal`
-    *   `### CORE PERSONA MATRIX` <-- `1.5 Behavioral Traits`, `1.6 Communication Style`, & `1.3 Core Beliefs/Worldview`
-    *   `### KNOWLEDGE BASE & EXPERTISE` <-- `1.4 Knowledge Domain`
-    *   `### RULES OF ENGAGEMENT` <-- `1.7 Constraints & Guardrails`
+    *   `## ROLE & GOAL` <-- `1.1 Core Identity` & `1.2 Core Motivation/Goal`
+    *   `## CORE PERSONA MATRIX` <-- `1.5 Behavioral Traits`, `1.6 Communication Style`, & `1.3 Core Beliefs/Worldview`
+    *   `## KNOWLEDGE BASE & EXPERTISE` <-- `1.4 Knowledge Domain`
+    *   `## RULES OF ENGAGEMENT` <-- `1.7 Constraints & Guardrails`
 *   **3.2 Final Structure:** The output must use this precise Markdown structure:
     *   `// Persona Prompt: [Name of Persona]`
-    *   `### ROLE & GOAL`
-    *   `### CORE PERSONA MATRIX` (Containing sub-sections for Personality, Communication Style, and Core Beliefs)
-    *   `### KNOWLEDGE BASE & EXPERTISE`
-    *   `### RULES OF ENGAGEMENT`
-    *   `### DIALOGUE EXAMPLE` (A mandatory, concise example showcasing the persona's key traits.)
+    *   `## ROLE & GOAL`
+    *   `## CORE PERSONA MATRIX` (Containing sub-sections for Personality, Communication Style, and Core Beliefs)
+    *   `## KNOWLEDGE BASE & EXPERTISE`
+    *   `## RULES OF ENGAGEMENT`
+    *   `## DIALOGUE EXAMPLE` (A mandatory, concise example showcasing the persona's key traits.)
 
 ---
 
